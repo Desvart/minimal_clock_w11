@@ -1,2 +1,3 @@
 @echo off
-pythonw.exe ".\minimal_clock.py"
+start /b "" pythonw.exe ".\minimal-clock.py"
+exit
