@@ -3,15 +3,15 @@ I like to hide my task bar in Windows because it takes too much place and I don'
 * Install Python 3+ with the tcl/tk and IDLE environment.
 * Save the launch_clock.bat and clock.py in the same directory.
 * Add the launch_clock.bat to the startup folder:
-  ** Press Windows + R to open the Run dialog
-  ** Type shell:startup and press Enter
-  ** This opens the Startup folder
-  ** Create a shortcut to your launch_clock.bat file in this folder:
-    *** Right-click in the Startup folder
-    *** Choose "New" → "Shortcut"
-    *** Browse to your launch_clock.bat file
-    *** Click "Next" and give it a name like "Minimal Clock"
-    *** Click "Finish"
+  * Press Windows + R to open the Run dialog
+  * Type shell:startup and press Enter
+  * This opens the Startup folder
+  * Create a shortcut to your launch_clock.bat file in this folder:
+    * Right-click in the Startup folder
+    * Choose "New" → "Shortcut"
+    * Browse to your launch_clock.bat file
+    * Click "Next" and give it a name like "Minimal Clock"
+    * Click "Finish"
 
 Note: Make sure to update the path in the batch file to match where you actually saved your clock.py file.
 
